@@ -29,7 +29,7 @@ I've being working in IT area for many years, mainly as a Software Engineer, 100
 
 ## My projects
 
-- [GrindLabs Consulting](https://github.com/GrindLabs) :: Company founded by myself to act as a contractor or consultant for B2C or B2B approaches.
+- [GrindLabs Consulting](https://github.com/GrindLabs) :: Company founded by myself to work as a contractor, freelancer or consultant for B2C or B2B models.
 
 ## Stay in touch
 
