@@ -11,6 +11,8 @@ I've been working in the IT area for many years, mainly as a Software Engineer, 
 - Data Pipelines (ETL/ELT)
 - Applied AI and Agentic Systems
 - Backend related stuff: system design, observability, APIs
+- Homelab + Proxmox enthusiast
+- NeoVim <3
 
 ## My core experience
 
@@ -22,10 +24,10 @@ I've been working in the IT area for many years, mainly as a Software Engineer, 
 - **Orchestrators:** Docker Swarm, Kubernetes
 - **Observability:** Prometheus, Grafana, DataDog, OpenTelemetry
 - **AI & Agentic Systems:** Agentic RAG, RAG Pipelines, MCP Servers, LangChain, LlamaIndex
-- **AI tooling:** Codex, Zed, Codex, Claude Code, OpenAI/GPT, OpenCode, OpenRouter, Hugging Face
+- **AI / Tooling:** Cursor, Codex, Claude Code, OpenAI/GPT, OpenCode, OpenRouter, Ollama, Hermes Agent, Hugging Face
 - **Cloud/DevOps:** CI/CD, AWS (Lambda, S3, X-Ray, EKS), Google Cloud (BigQuery, Storage, AppEngine, Cloud Run Functions)
 - **Data Engineering:** AirFlow, ETL/ELT pipelines, Data Cleaning, Data Enrichment, Data Lakes, Data Structure
-- **Web Scraping:** BS4, Parsel, Scrapy, Scrapiling, Crawlee, Obscura, Puppeteer, Playwright, Selenium, WAF bypassing, Proxy Rotation, Session Management, Rate Limiting, Browser Fingerprinting, TLS Fingerprinting, Network Analysis (Burp Suite, Charles Proxy, MITM)
+- **Web Scraping:** BS4, Parsel, Scrapy, Scrapiling, Crawlee, Obscura, Puppeteer, Playwright, Selenium, WAF bypassing, Proxy Rotation, Session Management, Rate Limiting, Browser Fingerprinting, TLS Fingerprinting, Network Analysis (Burp Suite, Charles Proxy, MITM, WireShark, tcpdump)
 
 ## My projects
 
