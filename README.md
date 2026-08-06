@@ -1,6 +1,6 @@
 ## Hello :wave:, I'm Alexandre Ferreira, but you can call me Alex
 
-I've being working in IT area for many years, mainly as a Software Engineer, 100% remote worker based in :round_pushpin: Salvador, Bahia, Brazil.
+I've been working in the IT area for many years, mainly as a Software Engineer, a 100% remote worker living in :round_pushpin: Salvador, Bahia, Brazil.
 
 ## My interests are
 
